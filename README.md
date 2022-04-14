@@ -207,90 +207,90 @@ This course teaches you how to build production-level services in Go leveraging 
 
 ### 07. Middleware
 
-7.0 - Intro
-7.1: Logging
-7.2: Request Context
-7.3: Error Handling
-7.3.1: Understanding what Error Handling Means
-7.3.2: Declaring Custom Error Types
-7.3.3: Consistent Handling and Response
-7.4: Panic Handling
-7.5: Metrics
+7. 0 - Intro
+7. 1 - Logging
+7. 2 - Request Context
+7. 3 - Error Handling
+7. 3.1 - Understanding what Error Handling Means
+7. 3.2 - Declaring Custom Error Types
+7. 3.3 - Consistent Handling and Response
+7. 4 - Panic Handling
+7. 5 - Metrics
 
 ### 08. JSON Web Tokens
 
-8.0 - Intro
-8.1: Understanding JWT
-8.2: Private/Public Key Generation
-8.3: Token Generation
-8.4: Token Signature Validation
+8. 0 - Intro
+8. 1 - Understanding JWT
+8. 2 - Private/Public Key Generation
+8. 3 - Token Generation
+8. 4 - Token Signature Validation
 
 ### 09. Authentication / Authorization
 
-9.0 - Intro
-9.1: Auth Package
-9.2: Implementation of an In-Memory Key Store
-9.3: Middleware
-9.4: Auth Unit Test
+9. 0 - Intro
+9. 1 - Auth Package
+9. 2 - Implementation of an In-Memory Key Store
+9. 3 - Middleware
+9. 4 - Auth Unit Test
 
 ### 10. Database Support
 
-10.0 - Intro
-10.1: Kubernetes Support for Postgres
-10.2: Using Sqlx
-10.3: Update Readiness Handler to Perform DB Checks
+10. 0 - Intro
+10. 1 -  Kubernetes Support for Postgres
+10. 2 - Using Sqlx
+10. 3 - Update Readiness Handler to Perform DB Checks
 
 ### 11. Database Migrations and Seeding
 
-11.0 - Intro
-11.1: Maintaining Database Schemas
-11.2: Seeding Data
-11.3: Init Containers
+11. 0 - Intro
+11. 1 - Maintaining Database Schemas
+11. 2 - Seeding Data
+11. 3 - Init Containers
 
 ### 12. Business Packages
 
-11.0 - Intro
-11.1: Maintaining Database Schemas
-11.2: Seeding Data
-11.3: Init Containers
+11. 0 - Intro
+11. 1 - Maintaining Database Schemas
+11. 2 - Seeding Data
+11. 3 - Init Containers
 
 ### 13. Testing Data Business Packages
 
-13.0 - Intro
-13.1: Support for Starting and Stopping Containers
-13.2: Support for Starting and Stopping a Unit Test
-13.3: Write User CRUD Data Unit Tests
+13. 0 - Intro
+13. 1 - Support for Starting and Stopping Containers
+13. 2 - Support for Starting and Stopping a Unit Test
+13. 3 - Write User CRUD Data Unit Tests
 
 ### 14. REST API
 
-14.0 - Intro
-14.1: Writing User Web Handlers
-14.2: Support for Starting and Stopping an Integration Test
-14.3: Write Integration Tests for Users
+14. 0 - Intro
+14. 1 - Writing User Web Handlers
+14. 2 - Support for Starting and Stopping an Integration Test
+14. 3 - Write Integration Tests for Users
 
 ### 15. Open Telemetry
 
-15.0 - Intro
-15.1: Integrate OTEL Web Handler into the Framework
-15.2: Integrate OTEL into Service Startup
-15.3: Add Zipkin into POD
-15.4: Add Tracing Calls Inside Functions to Trace
+15. 0 - Intro
+15. 1 - Integrate OTEL Web Handler into the Framework
+15. 2 - Integrate OTEL into Service Startup
+15. 3 - Add Zipkin into POD
+15. 4 - Add Tracing Calls Inside Functions to Trace
 
 ### 16. Review Services Project
 
-16.0 - Intro
-16.1: Check For Dependcy Upgrades
-16.2: Rebuild and Run the Project
+16. 0 - Intro
+16. 1 - Check For Dependcy Upgrades
+16. 2 - Rebuild and Run the Project
 
 ### 17. Beyond the Branch
 
-17.0. Intro
-17.1. Introduction
-17.2: Handling Log Sync on Error
-17.3: Removing DB Driver Types
-17.4: New POD for Zipkin
-17.5: v1 for Business/Web
-17.6: Data and Core Changes
+17. 0 - Intro
+17. 1 - Introduction
+17. 2 - Handling Log Sync on Error
+17. 3 - Removing DB Driver Types
+17. 4 - New POD for Zipkin
+17. 5 - v1 for Business/Web
+17. 6 - Data and Core Changes
 
 ## Writing Secure Go Code
 
@@ -298,10 +298,10 @@ For engineers who want to improve the security of theur Go applications.
 
 ### 01. Whats Covered
 
-1.0 - The Security Mindset
-2.0 - Go Security Policy
-3.0 - OWASP Top Ten
-4.0 - Input
-5.0 - Output
-6.0 - Authentication
-7.0 - Infrastructure
+1. 0 - The Security Mindset
+2. 0 - Go Security Policy
+3. 0 - OWASP Top Ten
+4. 0 - Input
+5. 0 - Output
+6. 0 - Authentication
+7. 0 - Infrastructure
