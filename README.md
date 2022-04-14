@@ -8,27 +8,29 @@ The reason for documenting these days is os that others can take something out o
 
 This course has syntax training and exercises. Designer for anyone who has programming experience but has little to no experience with Go.
 
-1. 0 - Hello World
+1. 0 - Hello World (Day01)
+1. 1 - Package (Day01)
+1. 2 - Library (Day01)
 2. 0 - Variables
 3. 0 - Strings
 4. 0 - Struct
 5. 0 - Type Conversion
 6. 1 - Pointers PT.1
-6. 2 - Pointers PT.2
-6. 3 - Pointers PT.3
-6. 4 - Pointers PT.4
-7. 0 - Literal Struct
-8. 1 - Constants PT.1
-8. 2 - Constants PT.2
-8. 3 - Constants PT.3
-8. 4 - Constants PT.4
-9. 0 - Blank Identifier
-10. 0 - Function Idioms
-11. 0 - Literal Functions
-12. 0 - Short Variables Declaration Operator
-13. 0 - Array Basics
-14. 0 - Array Iterarion
-15. 0 - Array Mismatch
+7. 2 - Pointers PT.2
+8. 3 - Pointers PT.3
+9.  4 - Pointers PT.4
+10. 0 - Literal Struct
+11. 1 - Constants PT.1
+12. 2 - Constants PT.2
+13. 3 - Constants PT.3
+14. 4 - Constants PT.4
+15. 0 - Blank Identifier
+16. 0 - Function Idioms
+17. 0 - Literal Functions
+18. 0 - Short Variables Declaration Operator
+19. 0 - Array Basics
+20. 0 - Array Iterarion
+21. 0 - Array Mismatch
 
 ## Advanced Concetps
 
